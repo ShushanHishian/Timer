@@ -1,0 +1,13 @@
+.time-numbers{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    background-color: rgb(29, 8, 8);
+    color: gold;
+    border-radius: 20px;
+    font-size: 40px;
+    width: 30%;
+    height: 50px;
+  justify-content: center;
+    
+}
